@@ -15,3 +15,8 @@ console.log(getNameAndEmail(arrayOfObjects, "invalidAge"));
 //3. No person with given age
 console.log(getNameAndEmail(arrayOfObjects,40));
 //Expected Output: [];
+
+//4. empty args or no args
+console.log([], );
+//Expected Output: [];
+
