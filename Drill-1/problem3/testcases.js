@@ -4,7 +4,7 @@ import {displayName} from "./solution.js"
 //Test-cases
 
 //1. Valid(Happy-Path)
-console.log(displayName(arrayOfObjects));
+console.log(displayName(arrayOfObjects, "Australia"));
 //Expected Output: [ 'Hannah' ];
 
 //2. Passing No Arguments
