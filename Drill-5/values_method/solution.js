@@ -11,6 +11,3 @@ export const values = (objects) => {
    }
    return result;
 }
-
-const test = {a: 1};
-   test.b = 1;
